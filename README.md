@@ -7,7 +7,6 @@ Welcome to the TODO App project! This is a simple application designed to help y
 -   [Project Info](#project-info)
 -   [Getting Started](#getting-started)
 -   [Usage](#usage)
--   [Contributing](#contributing)
 
 ## Project Info
 
